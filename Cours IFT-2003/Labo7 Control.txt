@@ -1,0 +1,3 @@
+Click on the green cylinder to send the first ball
+
+AD 	-> Left and right paddle
